@@ -12,3 +12,5 @@ echo "Hola" > README.md
 git add README.md
 git commit -m "Primera versión"
 ```
+
+AUTOR: Jesus Baltazar Villaseñor Angulo
